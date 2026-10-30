@@ -35,9 +35,3 @@
 | **Networking & Security** | Network Fundamentals, Ethical Hacking Basics, Computing Ethics & Compliance |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tee-codes9&show_icons=true&theme=tokyonight&hide_border=true" alt="Tony's GitHub Stats" />
-</div>
